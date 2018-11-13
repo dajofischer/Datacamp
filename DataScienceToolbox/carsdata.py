@@ -8,3 +8,6 @@ print(cars[["cars_per_cap"]])
 
 plt.scatter([0,1,2,3,4,5,6],cars[["cars_per_cap"]], s=None, c=None, marker=None, cmap=None, norm=None, vmin=None, vmax=None, alpha=None, linewidths=None, verts=None, edgecolors=None, hold=None, data=None)
 plt.show()
+
+plt.plot([1,2,3],[4,3,2])
+plt.show()
