@@ -16,4 +16,3 @@ cars.index=row_labels
 
 # Print cars again
 print(cars)
-print(cars)
