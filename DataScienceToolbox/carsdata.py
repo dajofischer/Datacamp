@@ -13,3 +13,4 @@ plt.plot([1,2,3],[4,3,2])
 plt.show()
 
 ## test
+plot(1,1)
