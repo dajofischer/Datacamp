@@ -1,4 +1,1 @@
-import os
-cwd = os.getcwd()
-
-print(cwd)
+print({'name':'luke','affiliation':'jedi'})
