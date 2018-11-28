@@ -1,0 +1,179 @@
+
+
+Welcome to the course!
+50 XP
+
+Exploring your working directory
+50 XP
+
+Importing entire text files
+100 XP
+
+Importing text files line by line
+100 XP
+
+The importance of flat files in data science
+50 XP
+
+Pop quiz: examples of flat files
+50 XP
+
+Pop quiz: what exactly are flat files?
+50 XP
+
+Why we like flat files and the Zen of Python
+50 XP
+
+Importing flat files using NumPy
+50 XP
+
+Using NumPy to import flat files
+100 XP
+
+Customizing your NumPy import
+100 XP
+
+Importing different datatypes
+100 XP
+
+Working with mixed datatypes (1)
+50 XP
+
+Working with mixed datatypes (2)
+100 XP
+
+Importing flat files using pandas
+50 XP
+
+Using pandas to import flat files as DataFrames (1)
+100 XP
+
+Using pandas to import flat files as DataFrames (2)
+100 XP
+
+Customizing your pandas import
+100 XP
+
+Final thoughts on data import
+50 XP
+Hide Details
+2
+Importing data from other file types
+0%
+You've learned how to import flat files, but there are many other file types you will potentially have to work with as a data scientist. In this chapter, you'll learn how to import data into Python from a wide array of important file types. You will be importing file types such as pickled files, Excel spreadsheets, SAS and Stata files, HDF5 files, a file type for storing large quantities of numerical data, and MATLAB files.
+
+
+Introduction to other file types
+50 XP
+
+Not so flat any more
+50 XP
+
+Loading a pickled file
+100 XP
+
+Listing sheets in Excel files
+100 XP
+
+Importing sheets from Excel files
+100 XP
+
+Customizing your spreadsheet import
+100 XP
+
+Importing SAS/Stata files using pandas
+50 XP
+
+How to import SAS7BDAT
+50 XP
+
+Importing SAS files
+100 XP
+
+Using read_stata to import Stata files
+50 XP
+
+Importing Stata files
+100 XP
+
+Importing HDF5 files
+50 XP
+
+Using File to import HDF5 files
+50 XP
+
+Using h5py to import HDF5 files
+100 XP
+
+Extracting data from your HDF5 file
+100 XP
+
+Importing MATLAB files
+50 XP
+
+Loading .mat files
+100 XP
+
+The structure of .mat in Python
+100 XP
+Hide Details
+3
+Working with relational databases in Python
+0%
+In this chapter, you'll learn how to extract meaningful data from relational databases, an essential element of any data scientist's toolkit. You will be learning about the relational model, creating SQL queries, filtering and ordering your SQL records, and advanced querying by JOINing database tables.
+
+
+Introduction to relational databases
+50 XP
+
+Pop quiz: The relational model
+50 XP
+
+Creating a database engine in Python
+50 XP
+
+Creating a database engine
+100 XP
+
+What are the tables in the database?
+100 XP
+
+Querying relational databases in Python
+50 XP
+
+The Hello World of SQL Queries!
+100 XP
+
+Customizing the Hello World of SQL Queries
+100 XP
+
+Filtering your database records using SQL's WHERE
+100 XP
+
+Ordering your SQL records with ORDER BY
+100 XP
+
+Querying relational databases directly with pandas
+50 XP
+
+Pandas and The Hello World of SQL Queries!
+100 XP
+
+Pandas for more complex querying
+100 XP
+
+Advanced Querying: exploiting table relationships
+50 XP
+
+The power of SQL lies in relationships between tables: INNER JOIN
+100 XP
+
+Filtering your INNER JOIN
+100 XP
+
+Final Thoughts
+50 XP
+Hide Details
+Back to Dashboard
+
+Reset Course Progress
