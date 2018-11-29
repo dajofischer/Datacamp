@@ -1,0 +1,100 @@
+
+Importing flat files from the web
+50 XP
+
+Importing flat files from the web: your turn!
+100 XP
+
+Opening and reading flat files from the web
+100 XP
+
+Importing non-flat files from the web
+100 XP
+
+HTTP requests to import files from the web
+50 XP
+
+Performing HTTP requests in Python using urllib
+100 XP
+
+Printing HTTP request results in Python using urllib
+100 XP
+
+Performing HTTP requests in Python using requests
+100 XP
+
+Scraping the web in Python
+50 XP
+
+Parsing HTML with BeautifulSoup
+100 XP
+
+Turning a webpage into data using BeautifulSoup: getting the text
+100 XP
+
+Turning a webpage into data using BeautifulSoup: getting the hyperlinks
+100 XP
+Hide Details
+2
+Interacting with APIs to import data from the web
+0%
+In this chapter, you will push further on your knowledge of importing data from the web. You will learn the basics of extracting data from APIs, gain insight on the importance of APIs and practice getting data from them with dives into the OMDB and Library of Congress APIs.
+
+
+Introduction to APIs and JSONs
+50 XP
+
+Pop quiz: What exactly is a JSON?
+50 XP
+
+Loading and exploring a JSON
+100 XP
+
+Pop quiz: Exploring your JSON
+50 XP
+
+APIs and interacting with the world wide web
+50 XP
+
+Pop quiz: What's an API?
+50 XP
+
+API requests
+100 XP
+
+JSON–from the web to Python
+100 XP
+
+Checking out the Wikipedia API
+100 XP
+Hide Details
+3
+Diving deep into the Twitter API
+0%
+In this chapter, you will consolidate your knowledge of interacting with APIs in a deep dive into the Twitter streaming API. You'll learn how to stream real-time Twitter data and to analyze and visualize it!
+
+
+The Twitter API and Authentication
+50 XP
+
+API Authentication
+100 XP
+
+Streaming tweets
+100 XP
+
+Load and explore your Twitter data
+100 XP
+
+Twitter data to DataFrame
+100 XP
+
+A little bit of Twitter text analysis
+100 XP
+
+Plotting your Twitter data
+100 XP
+
+Final Thoughts
+50 XP
+A

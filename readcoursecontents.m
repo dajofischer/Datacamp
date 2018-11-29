@@ -1,4 +1,4 @@
-file='Course5.txt';
+file='Course6.txt';
 
 fid=fopen(file,'r');
 TEXT=fscanf(fid,'%c');
@@ -7,7 +7,7 @@ fclose(fid);
 
 %%
 a=regexp(TEXT,'XP');
-b=regexp(TEXT,'\n');
+b=[0 regexp(TEXT,'\n')];
 
 c=cell(length(a),2);
 
@@ -37,7 +37,7 @@ for i=1:size(c,1)
 end
 
 %%
-for i=9:size(c,1)
-    fid=fopen(['/Volumes/Data/Dropbox/Python3/git/Datacamp/ImportingDataPython1/',c{i,2}],'w+');
+for i=1:size(c,1)
+    fid=fopen(['/Volumes/Data/Dropbox/Python3/git/Datacamp/Importing_Data_in_Python2/',c{i,2}],'w+');
     fclose(fid);
 end
