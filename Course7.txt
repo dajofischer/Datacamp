@@ -1,0 +1,200 @@
+icate rows.
+
+
+Diagnose data for cleaning
+50 XP
+
+Loading and viewing your data
+50 XP
+
+Further diagnosis
+50 XP
+
+Exploratory data analysis
+50 XP
+
+Calculating summary statistics
+50 XP
+
+Frequency counts for categorical data
+100 XP
+
+Visual exploratory data analysis
+50 XP
+
+Visualizing single variables with histograms
+100 XP
+
+Visualizing multiple variables with boxplots
+100 XP
+
+Visualizing multiple variables with scatter plots
+100 XP
+Hide Details
+2
+Tidying data for analysis
+0%
+Here, you'll learn about the principles of tidy data and more importantly, why you should care about them and how they make subsequent data analysis more efficient. You'll gain first hand experience with reshaping and tidying your data using techniques such as pivoting and melting.
+
+
+Tidy data
+50 XP
+
+Recognizing tidy data
+50 XP
+
+Reshaping your data using melt
+100 XP
+
+Customizing melted data
+100 XP
+
+Pivoting data
+50 XP
+
+Pivot data
+100 XP
+
+Resetting the index of a DataFrame
+100 XP
+
+Pivoting duplicate values
+100 XP
+
+Beyond melt and pivot
+50 XP
+
+Splitting a column with .str
+100 XP
+
+Splitting a column with .split() and .get()
+100 XP
+Hide Details
+3
+Combining data for analysis
+0%
+The ability to transform and combine your data is a crucial skill in data science, because your data may not always come in one monolithic file or table for you to load. A large dataset may be broken into separate datasets to facilitate easier storage and sharing. Or if you are dealing with time series data, for example, you may have a new dataset for each day. No matter the reason, it is important to be able to combine datasets so you can either clean a single dataset, or clean each dataset separately and then combine them later so you can run your analysis on a single dataset. In this chapter, you'll learn all about combining data.
+
+
+Concatenating data
+50 XP
+
+Combining rows of data
+100 XP
+
+Combining columns of data
+100 XP
+
+Finding and concatenating data
+50 XP
+
+Finding files that match a pattern
+100 XP
+
+Iterating and concatenating all matches
+100 XP
+
+Merge data
+50 XP
+
+1-to-1 data merge
+100 XP
+
+Many-to-1 data merge
+100 XP
+
+Many-to-many data merge
+100 XP
+Hide Details
+4
+Cleaning data for analysis
+0%
+Here, you'll dive into some of the grittier aspects of data cleaning. You'll learn about string manipulation and pattern matching to deal with unstructured data, and then explore techniques to deal with missing or duplicate data. You'll also learn the valuable skill of programmatically checking your data for consistency, which will give you confidence that your code is running correctly and that the results of your analysis are reliable!
+
+
+Data types
+50 XP
+
+Converting data types
+100 XP
+
+Working with numeric data
+100 XP
+
+Using regular expressions to clean strings
+50 XP
+
+String parsing with regular expressions
+100 XP
+
+Extracting numerical values from strings
+100 XP
+
+Pattern matching
+100 XP
+
+Using functions to clean data
+50 XP
+
+Custom functions to clean data
+100 XP
+
+Lambda functions
+100 XP
+
+Duplicate and missing data
+50 XP
+
+Dropping duplicate data
+100 XP
+
+Filling missing data
+100 XP
+
+Testing with asserts
+50 XP
+
+Testing your data with asserts
+100 XP
+Hide Details
+5
+Case study
+0%
+In this final chapter, you'll apply all of the data cleaning techniques you've learned in this course towards tidying a real-world, messy dataset obtained from the Gapminder Foundation. Once you're done, not only will you have a clean and tidy dataset, you'll also be ready to start working on your own data science projects using the power of Python!
+
+
+Putting it all together
+50 XP
+
+Exploratory analysis
+50 XP
+
+Visualizing your data
+100 XP
+
+Thinking about the question at hand
+100 XP
+
+Assembling your data
+100 XP
+
+Initial impressions of the data
+50 XP
+
+Reshaping your data
+100 XP
+
+Checking the data types
+100 XP
+
+Looking at country spellings
+100 XP
+
+More data cleaning and processing
+100 XP
+
+Wrapping up
+100 XP
+
+Final thoughts
+50 XP

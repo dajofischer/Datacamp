@@ -1,4 +1,4 @@
-file='Course6.txt';
+file='Course7.txt';
 
 fid=fopen(file,'r');
 TEXT=fscanf(fid,'%c');
@@ -38,6 +38,6 @@ end
 
 %%
 for i=1:size(c,1)
-    fid=fopen(['/Volumes/Data/Dropbox/Python3/git/Datacamp/Importing_Data_in_Python2/',c{i,2}],'w+');
+    fid=fopen(['/Volumes/Data/Dropbox/Python3/git/Datacamp/Cleaning_Data_in_Python/',c{i,2}],'w+');
     fclose(fid);
 end
