@@ -1,0 +1,206 @@
+, you will be introduced to Panda's DataFrames. You will use Pandas to import and inspect a variety of datasets, ranging from population data obtained from The World Bank to monthly stock data obtained via Yahoo! Finance. You will also practice building DataFrames from scratch, and become familiar with Pandas' intrinsic data visualization capabilities.
+
+
+Review of pandas DataFrames
+50 XP
+
+Inspecting your data
+50 XP
+
+DataFrame data types
+50 XP
+
+NumPy and pandas working together
+100 XP
+
+Building DataFrames from scratch
+50 XP
+
+Zip lists to build a DataFrame
+100 XP
+
+Labeling your data
+100 XP
+
+Building DataFrames with broadcasting
+100 XP
+
+Importing & exporting data
+50 XP
+
+Reading a flat file
+100 XP
+
+Delimiters, headers, and extensions
+100 XP
+
+Plotting with pandas
+50 XP
+
+Plotting series using pandas
+100 XP
+
+Plotting DataFrames
+100 XP
+Hide Details
+2
+Exploratory data analysis
+0%
+Having learned how to ingest and inspect your data, you will next explore it visually as well as quantitatively. This process, known as exploratory data analysis (EDA), is a crucial component of any data science project. Pandas has powerful methods that help with statistical and visual EDA. In this chapter, you will learn how and when to apply these techniques.
+
+
+Visual exploratory data analysis
+50 XP
+
+pandas line plots
+100 XP
+
+pandas scatter plots
+100 XP
+
+pandas box plots
+100 XP
+
+pandas hist, pdf and cdf
+100 XP
+
+Statistical exploratory data analysis
+50 XP
+
+Fuel efficiency
+50 XP
+
+Bachelor's degrees awarded to women
+100 XP
+
+Median vs mean
+100 XP
+
+Quantiles
+100 XP
+
+Standard deviation of temperature
+100 XP
+
+Separating populations with Boolean indexing
+50 XP
+
+Filtering and counting
+50 XP
+
+Separate and summarize
+100 XP
+
+Separate and plot
+100 XP
+Hide Details
+3
+Time series in pandas
+0%
+In this chapter, you will learn how to manipulate and visualize time series data using Pandas. You will become familiar with concepts such as upsampling, downsampling, and interpolation. You will practice using Pandas' method chaining to efficiently filter your data and perform time series analyses. From stock prices to flight timings, time series data are found in a wide variety of domains and being able to effectively work with such data can be an invaluable skill.
+
+
+Indexing pandas time series
+50 XP
+
+Reading and slicing times
+50 XP
+
+Creating and using a DatetimeIndex
+100 XP
+
+Partial string indexing and slicing
+100 XP
+
+Reindexing the Index
+100 XP
+
+Resampling pandas time series
+50 XP
+
+Resampling and frequency
+100 XP
+
+Separating and resampling
+100 XP
+
+Rolling mean and frequency
+100 XP
+
+Resample and roll with it
+100 XP
+
+Manipulating pandas time series
+50 XP
+
+Method chaining and filtering
+100 XP
+
+Missing values and interpolation
+100 XP
+
+Time zones and conversion
+100 XP
+
+Visualizing pandas time series
+50 XP
+
+Plotting time series, datetime indexing
+100 XP
+
+Plotting date ranges, partial indexing
+100 XP
+Hide Details
+4
+Case Study - Sunlight in Austin
+0%
+Working with real-world weather and climate data, in this chapter you will bring together and apply all of the skills you have acquired in this course. You will use Pandas to manipulate the data into a form usable for analysis, and then systematically explore it using the techniques you learned in the prior chapters. Enjoy!
+
+
+Reading and cleaning the data
+50 XP
+
+What method should we use to read the data?
+50 XP
+
+Reading in a data file
+100 XP
+
+Re-assigning column names
+100 XP
+
+Cleaning and tidying datetime data
+100 XP
+
+Cleaning the numeric columns
+100 XP
+
+Statistical exploratory data analysis
+50 XP
+
+Signal min, max, median
+100 XP
+
+Signal variance
+100 XP
+
+Sunny or cloudy
+100 XP
+
+Visual exploratory data analysis
+50 XP
+
+Weekly average temperature and visibility
+100 XP
+
+Daily hours of clear sky
+100 XP
+
+Heat or humidity
+100 XP
+
+Probability of high temperatures
+100 XP
+
+Congratulations!
+50 XP
