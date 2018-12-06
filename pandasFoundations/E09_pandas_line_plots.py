@@ -29,3 +29,5 @@ plt.ylabel('Price ($US)')
 
 # Display the plot
 plt.show()
+
+print(df.describe())
