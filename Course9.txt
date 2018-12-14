@@ -1,0 +1,251 @@
+tasets, ranging from 2012 US election data for the state of Pennsylvania to Pittsburgh weather data.
+
+
+Indexing DataFrames
+50 XP
+
+Index ordering
+50 XP
+
+Positional and labeled indexing
+100 XP
+
+Indexing and column rearrangement
+100 XP
+
+Slicing DataFrames
+50 XP
+
+Slicing rows
+100 XP
+
+Slicing columns
+100 XP
+
+Subselecting DataFrames with lists
+100 XP
+
+Filtering DataFrames
+50 XP
+
+Thresholding data
+100 XP
+
+Filtering columns using other columns
+100 XP
+
+Filtering using NaNs
+100 XP
+
+Transforming DataFrames
+50 XP
+
+Using apply() to transform a column
+100 XP
+
+Using .map() with a dictionary
+100 XP
+
+Using vectorized functions
+100 XP
+Hide Details
+2
+Advanced indexing
+0%
+Having learned the fundamentals of working with DataFrames, you will now move on to more advanced indexing techniques. You will learn about MultiIndexes, or hierarchical indexes, and learn how to interact with and extract data from them.
+
+
+Index objects and labeled data
+50 XP
+
+Index values and names
+50 XP
+
+Changing index of a DataFrame
+100 XP
+
+Changing index name labels
+100 XP
+
+Building an index, then a DataFrame
+100 XP
+
+Hierarchical indexing
+50 XP
+
+Extracting data with a MultiIndex
+100 XP
+
+Setting & sorting a MultiIndex
+100 XP
+
+Using .loc[] with nonunique indexes
+100 XP
+
+Indexing multiple levels of a MultiIndex
+100 XP
+Hide Details
+3
+Rearranging and reshaping data
+0%
+Here, you will learn how to reshape your DataFrames using techniques such as pivoting, melting, stacking, and unstacking. These are powerful techniques that allow you to tidy and rearrange your data into the format that allows you to most easily analyze it for insights.
+
+
+Pivoting DataFrames
+50 XP
+
+Pivoting and the index
+50 XP
+
+Pivoting a single variable
+100 XP
+
+Pivoting all variables
+100 XP
+
+Stacking & unstacking DataFrames
+50 XP
+
+Stacking & unstacking I
+100 XP
+
+Stacking & unstacking II
+100 XP
+
+Restoring the index order
+100 XP
+
+Melting DataFrames
+50 XP
+
+Adding names for readability
+100 XP
+
+Going from wide to long
+100 XP
+
+Obtaining key-value pairs with melt()
+100 XP
+
+Pivot tables
+50 XP
+
+Setting up a pivot table
+100 XP
+
+Using other aggregations in pivot tables
+100 XP
+
+Using margins in pivot tables
+100 XP
+Hide Details
+4
+Grouping data
+0%
+In this chapter, you'll learn how to identify and split DataFrames by groups or categories for further aggregation or analysis. You'll also learn how to transform and filter your data, including how to detect outliers and impute missing values. Knowing how to effectively group data in pandas can be a seriously powerful addition to your data science toolbox.
+
+
+Categoricals and groupby
+50 XP
+
+Advantages of categorical data types
+50 XP
+
+Grouping by multiple columns
+100 XP
+
+Grouping by another series
+100 XP
+
+Groupby and aggregation
+50 XP
+
+Computing multiple aggregates of multiple columns
+100 XP
+
+Aggregating on index levels/fields
+100 XP
+
+Grouping on a function of the index
+100 XP
+
+Groupby and transformation
+50 XP
+
+Detecting outliers with Z-Scores
+100 XP
+
+Filling missing data (imputation) by group
+100 XP
+
+Other transformations with .apply
+100 XP
+
+Groupby and filtering
+50 XP
+
+Grouping and filtering with .apply()
+100 XP
+
+Grouping and filtering with .filter()
+100 XP
+
+Filtering and grouping with .map()
+100 XP
+Hide Details
+5
+Bringing it all together
+0%
+Here, you will bring together everything you have learned in this course while working with data recorded from the Summer Olympic games that goes as far back as 1896! This is a rich dataset that will allow you to fully apply the data manipulation techniques you have learned. You will pivot, unstack, group, slice, and reshape your data as you explore this dataset and uncover some truly fascinating insights. Enjoy!
+
+
+Case Study - Summer Olympics
+50 XP
+
+Grouping and aggregating
+50 XP
+
+Using .value_counts() for ranking
+100 XP
+
+Using .pivot_table() to count medals by type
+100 XP
+
+Understanding the column labels
+50 XP
+
+Applying .drop_duplicates()
+100 XP
+
+Finding possible errors with .groupby()
+100 XP
+
+Locating suspicious data
+100 XP
+
+Constructing alternative country rankings
+50 XP
+
+Using .nunique() to rank by distinct sports
+100 XP
+
+Counting USA vs. USSR Cold War Olympic Sports
+100 XP
+
+Counting USA vs. USSR Cold War Olympic Medals
+100 XP
+
+Reshaping DataFrames for visualization
+50 XP
+
+Visualizing USA Medal Counts by Edition: Line Plot
+100 XP
+
+Visualizing USA Medal Counts by Edition: Area Plot
+100 XP
+
+Visualizing USA Medal Counts by Edition: Area Plot with Ordered Medals
+100 XP
+
+Congratulations!
+50 XP

@@ -1,4 +1,4 @@
-file='Course8.txt';
+file='Course9.txt';
 
 fid=fopen(file,'r');
 TEXT=fscanf(fid,'%c');
@@ -38,6 +38,6 @@ end
 
 %%
 for i=1:size(c,1)
-    fid=fopen(['/Volumes/Data/Dropbox/Python3/git/Datacamp/pandasFoundations/',c{i,2}],'w+');
+    fid=fopen(['/Volumes/Data/Dropbox/Python3/git/Datacamp/DataFrame_manipulation_pandas/',c{i,2}],'w+');
     fclose(fid);
 end
