@@ -1,0 +1,188 @@
+ging DataFrames later in the course.
+
+
+Reading multiple data files
+50 XP
+
+Reading DataFrames from multiple files
+100 XP
+
+Reading DataFrames from multiple files in a loop
+100 XP
+
+Combining DataFrames from multiple data files
+100 XP
+
+Reindexing DataFrames
+50 XP
+
+Sorting DataFrame with the Index & columns
+100 XP
+
+Reindexing DataFrame from a list
+100 XP
+
+Reindexing using another DataFrame Index
+100 XP
+
+Arithmetic with Series & DataFrames
+50 XP
+
+Adding unaligned DataFrames
+50 XP
+
+Broadcasting in arithmetic formulas
+100 XP
+
+Computing percentage growth of GDP
+100 XP
+
+Converting currency of stocks
+100 XP
+Hide Details
+2
+Concatenating data
+0%
+Having learned how to import multiple DataFrames and share information using Indexes, in this chapter you'll learn how to perform database-style operations to combine DataFrames. In particular, you'll learn about appending and concatenating DataFrames while working with a variety of real-world datasets.
+
+
+Appending & concatenating Series
+50 XP
+
+Appending Series with nonunique Indices
+50 XP
+
+Appending pandas Series
+100 XP
+
+Concatenating pandas Series along row axis
+100 XP
+
+Appending & concatenating DataFrames
+50 XP
+
+Appending DataFrames with ignore_index
+100 XP
+
+Concatenating pandas DataFrames along column axis
+100 XP
+
+Reading multiple files to build a DataFrame
+100 XP
+
+Concatenation, keys, & MultiIndexes
+50 XP
+
+Concatenating vertically to get MultiIndexed rows
+100 XP
+
+Slicing MultiIndexed DataFrames
+100 XP
+
+Concatenating horizontally to get MultiIndexed columns
+100 XP
+
+Concatenating DataFrames from a dict
+100 XP
+
+Outer & inner joins
+50 XP
+
+Concatenating DataFrames with inner join
+100 XP
+
+Resampling & concatenating DataFrames with inner join
+100 XP
+Hide Details
+3
+Merging data
+0%
+Here, you'll learn all about merging pandas DataFrames. You'll explore different techniques for merging, and learn about left joins, right joins, inner joins, and outer joins, as well as when to use which. You'll also learn about ordered merging, which is useful when you want to merge DataFrames whose columns have natural orderings, like date-time columns.
+
+
+Merging DataFrames
+50 XP
+
+Merging company DataFrames
+50 XP
+
+Merging on a specific column
+100 XP
+
+Merging on columns with non-matching labels
+100 XP
+
+Merging on multiple columns
+100 XP
+
+Joining DataFrames
+50 XP
+
+Joining by Index
+50 XP
+
+Choosing a joining strategy
+50 XP
+
+Left & right merging on multiple columns
+100 XP
+
+Merging DataFrames with outer join
+100 XP
+
+Ordered merges
+50 XP
+
+Using merge_ordered()
+100 XP
+
+Using merge_asof()
+100 XP
+Hide Details
+4
+Case Study - Summer Olympics
+0%
+To cement your new skills, you'll apply them by working on an in-depth study involving Olympic medal data. The analysis involves integrating your multi-DataFrame skills from this course and also skills you've gained in previous pandas courses. This is a rich dataset that will allow you to fully leverage your pandas data manipulation skills. Enjoy!
+
+
+Medals in the Summer Olympics
+50 XP
+
+Loading Olympic edition DataFrame
+100 XP
+
+Loading IOC codes DataFrame
+100 XP
+
+Building medals DataFrame
+100 XP
+
+Quantifying Performance
+50 XP
+
+Counting medals by country/edition in a pivot table
+100 XP
+
+Computing fraction of medals per Olympic edition
+100 XP
+
+Computing percentage change in fraction of medals won
+100 XP
+
+Reshaping and plotting
+50 XP
+
+Building hosts DataFrame
+100 XP
+
+Reshaping for analysis
+100 XP
+
+Merging to compute influence
+100 XP
+
+Plotting influence of host country
+100 XP
+
+Final thoughts
+50 XP

@@ -1,4 +1,4 @@
-file='Course9.txt';
+file='Course10.txt';
 
 fid=fopen(file,'r');
 TEXT=fscanf(fid,'%c');
@@ -37,7 +37,10 @@ for i=1:size(c,1)
 end
 
 %%
+p='/Users/David/Dropbox/Python3/git/Datacamp/';
+%p='/Volumes/Data/Dropbox/Python3/git/Datacamp/';
+%%
 for i=1:size(c,1)
-    fid=fopen(['/Volumes/Data/Dropbox/Python3/git/Datacamp/DataFrame_manipulation_pandas/',c{i,2}],'w+');
+    fid=fopen([p,'MergingDataFrameswithpandas/',c{i,2}],'w+');
     fclose(fid);
 end
