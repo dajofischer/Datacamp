@@ -1,0 +1,143 @@
+about them using database lingo, and how to begin an analysis by using simple SQL commands to select and summarize columns from database tables.
+
+
+Welcome to the course!
+50 XP
+
+Onboarding | Tables
+50 XP
+
+Onboarding | Query Result
+50 XP
+
+Onboarding | Errors
+100 XP
+
+Onboarding | Bullet Exercises
+100 XP
+
+Beginning your SQL journey
+50 XP
+
+SELECTing single columns
+100 XP
+
+SELECTing multiple columns
+100 XP
+
+SELECT DISTINCT
+100 XP
+
+Learning to COUNT
+50 XP
+
+Practice with COUNT
+100 XP
+Hide Details
+2
+Filtering rows
+0%
+This chapter builds on the first by teaching you how to filter tables for rows satisfying some criteria of interest. You'll learn how to use basic comparison operators, combine multiple criteria, match patterns in text, and much more.
+
+
+Filtering results
+50 XP
+
+Simple filtering of numeric values
+100 XP
+
+Simple filtering of text
+100 XP
+
+WHERE AND
+100 XP
+
+WHERE AND OR
+50 XP
+
+WHERE AND OR (2)
+100 XP
+
+BETWEEN
+50 XP
+
+BETWEEN (2)
+100 XP
+
+WHERE IN
+100 XP
+
+Introduction to NULL and IS NULL
+50 XP
+
+NULL and IS NULL
+100 XP
+
+LIKE and NOT LIKE
+100 XP
+Hide Details
+3
+Aggregate Functions
+0%
+This chapter builds on the first two by teaching you how to use aggregate functions to summarize your data and gain useful insights. Additionally, you'll learn about arithmetic in SQL, and how to use aliases to make your results more readable!
+
+
+Aggregate functions
+100 XP
+
+Aggregate functions practice
+100 XP
+
+Combining aggregate functions with WHERE
+100 XP
+
+A note on arithmetic
+50 XP
+
+It's AS simple AS aliasing
+100 XP
+
+Even more aliasing
+100 XP
+Hide Details
+4
+Sorting, grouping and joins
+0%
+This chapter provides a brief introduction to sorting and grouping your results, and briefly touches on the concept of joins.
+
+
+ORDER BY
+50 XP
+
+Sorting single columns
+100 XP
+
+Sorting single columns (2)
+100 XP
+
+Sorting single columns (DESC)
+100 XP
+
+Sorting multiple columns
+100 XP
+
+GROUP BY
+50 XP
+
+GROUP BY practice
+100 XP
+
+GROUP BY practice (2)
+100 XP
+
+HAVING a great time
+50 XP
+
+All together now
+100 XP
+
+All together now (2)
+100 XP
+
+A taste of things to come
+100 XP

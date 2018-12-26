@@ -1,4 +1,4 @@
-file='Course10.txt';
+file='Course11.txt';
 
 fid=fopen(file,'r');
 TEXT=fscanf(fid,'%c');
@@ -33,7 +33,7 @@ for i=1:size(c,1)
       WEP=['0',WEP]; 
    end
    WEP=['E',WEP,'_'];
-   c{i,2}=[WEP,c{i,2}(a),'.py'];
+   c{i,2}=[WEP,c{i,2}(a),'.SQL'];
 end
 
 %%
@@ -41,6 +41,6 @@ p='/Users/David/Dropbox/Python3/git/Datacamp/';
 %p='/Volumes/Data/Dropbox/Python3/git/Datacamp/';
 %%
 for i=1:size(c,1)
-    fid=fopen([p,'MergingDataFrameswithpandas/',c{i,2}],'w+');
+    fid=fopen([p,'Intro_to_SQL/',c{i,2}],'w+');
     fclose(fid);
 end
