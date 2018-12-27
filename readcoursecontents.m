@@ -33,7 +33,7 @@ for i=1:size(c,1)
       WEP=['0',WEP]; 
    end
    WEP=['E',WEP,'_'];
-   c{i,2}=[WEP,c{i,2}(a),'.SQL'];
+   c{i,2}=[WEP,c{i,2}(a),'.py'];
 end
 
 %%
