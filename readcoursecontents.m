@@ -1,4 +1,4 @@
-file='Course11.txt';
+file='Course12.txt';
 
 fid=fopen(file,'r');
 TEXT=fscanf(fid,'%c');
@@ -41,6 +41,6 @@ p='/Users/David/Dropbox/Python3/git/Datacamp/';
 %p='/Volumes/Data/Dropbox/Python3/git/Datacamp/';
 %%
 for i=1:size(c,1)
-    fid=fopen([p,'Intro_to_SQL/',c{i,2}],'w+');
+    fid=fopen([p,'DataBase_in_Python_Intro/',c{i,2}],'w+');
     fclose(fid);
 end

@@ -1,0 +1,224 @@
+L as well as with SQLAlchemy, which provides a Pythonic way of interacting with databases.
+
+
+Introduction to Databases
+50 XP
+
+Relational Model
+50 XP
+
+Connecting to your Database
+50 XP
+
+Engines and Connection Strings
+100 XP
+
+Autoloading Tables from a Database
+100 XP
+
+Viewing Table Details
+100 XP
+
+Introduction to SQL
+50 XP
+
+Selecting data from a Table: raw SQL
+100 XP
+
+Selecting data from a Table with SQLAlchemy
+100 XP
+
+Handling a ResultSet
+100 XP
+
+Congratulations!
+50 XP
+Hide Details
+2
+Applying Filtering, Ordering and Grouping to Queries
+0%
+In this chapter, you will build on the database knowledge you began acquiring in the previous chapter by writing more nuanced queries that allow you to filter, order, and count your data, all within the Pythonic framework provided by SQLAlchemy!
+
+
+Filtering and Targeting Data
+50 XP
+
+Connecting to a PostgreSQL Database
+100 XP
+
+Filter data selected from a Table - Simple
+100 XP
+
+Filter data selected from a Table - Expressions
+100 XP
+
+Filter data selected from a Table - Advanced
+100 XP
+
+Overview of Ordering
+50 XP
+
+Ordering by a Single Column
+100 XP
+
+Ordering in Descending Order by a Single Column
+100 XP
+
+Ordering by Multiple Columns
+100 XP
+
+Counting, Summing and Grouping Data
+50 XP
+
+Counting Distinct Data
+100 XP
+
+Count of Records by State
+100 XP
+
+Determining the Population Sum by State
+100 XP
+
+Let's use Pandas and Matplotlib to visualize our Data
+50 XP
+
+SQLAlchemy ResultsProxy and Pandas Dataframes
+100 XP
+
+From SQLAlchemy results to a Graph
+100 XP
+Hide Details
+3
+Advanced SQLAlchemy Queries
+0%
+Herein, you will learn to perform advanced - and incredibly useful - queries that will enable you to interact with your data in powerful ways.
+
+
+Calculating Values in a Query
+50 XP
+
+Connecting to a MySQL Database
+100 XP
+
+Calculating a Difference between Two Columns
+100 XP
+
+Determining the Overall Percentage of Females
+100 XP
+
+SQL Relationships
+50 XP
+
+Automatic Joins with an Established Relationship
+100 XP
+
+Joins
+100 XP
+
+More Practice with Joins
+100 XP
+
+Working with Hierarchical Tables
+50 XP
+
+Using alias to handle same table joined queries
+100 XP
+
+Leveraging Functions and Group_bys with Hierarchical Data
+100 XP
+
+Dealing with Large ResultSets
+50 XP
+
+Working on Blocks of Records
+100 XP
+Hide Details
+4
+Creating and Manipulating your own Databases
+0%
+In the previous chapters, you interacted with existing databases and queried them in various different ways. Now, you will learn how to build your own databases and keep them updated!
+
+
+Creating Databases and Tables
+50 XP
+
+Creating Tables with SQLAlchemy
+100 XP
+
+Constraints and Data Defaults
+100 XP
+
+Inserting Data into a Table
+50 XP
+
+Inserting a single row with an insert() statement
+100 XP
+
+Inserting Multiple Records at Once
+100 XP
+
+Loading a CSV into a Table
+100 XP
+
+Updating Data in a Database
+50 XP
+
+Updating individual records
+100 XP
+
+Updating Multiple Records
+100 XP
+
+Correlated Updates
+100 XP
+
+Removing Data From a Database
+50 XP
+
+Deleting all the records from a table
+100 XP
+
+Deleting specific records
+100 XP
+
+Deleting a Table Completely
+100 XP
+Hide Details
+5
+Putting it all together
+0%
+Here, you will bring together all of the skills you acquired in the previous chapters to work on a real life project! From connecting to a database, to populating it, to reading and querying it, you will have a chance to apply all the key concepts you learned in this course. Enjoy!
+
+
+Census Case Study
+50 XP
+
+Setup the Engine and MetaData
+100 XP
+
+Create the Table to the Database
+100 XP
+
+Populating the Database
+50 XP
+
+Reading the Data from the CSV
+100 XP
+
+Load Data from a list into the Table
+100 XP
+
+Example Queries
+50 XP
+
+Build a Query to Determine the Average Age by Population
+100 XP
+
+Build a Query to Determine the Percentage of Population by Gender and State
+100 XP
+
+Build a Query to Determine the Difference by State from the 2000 and 2008 Censuses
+100 XP
+
+Congratulations
+50 XP
