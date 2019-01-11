@@ -1,4 +1,4 @@
-file='Course12.txt';
+file='Course13.txt';
 
 fid=fopen(file,'r');
 TEXT=fscanf(fid,'%c');
@@ -37,10 +37,10 @@ for i=1:size(c,1)
 end
 
 %%
-p='/Users/David/Dropbox/Python3/git/Datacamp/';
-%p='/Volumes/Data/Dropbox/Python3/git/Datacamp/';
+%p='/Users/David/Dropbox/Python3/git/Datacamp/';
+p='/Volumes/Data/Dropbox/Python3/git/Datacamp/';
 %%
 for i=1:size(c,1)
-    fid=fopen([p,'DataBase_in_Python_Intro/',c{i,2}],'w+');
+    fid=fopen([p,'Introduction_to_Data_Visualization_with_Python/',c{i,2}],'w+');
     fclose(fid);
 end

@@ -1,0 +1,194 @@
+t styles.
+
+
+Plotting multiple graphs
+50 XP
+
+Multiple plots on single axis
+100 XP
+
+Using axes()
+100 XP
+
+Using subplot() (1)
+100 XP
+
+Using subplot() (2)
+100 XP
+
+Customizing axes
+50 XP
+
+Using xlim(), ylim()
+100 XP
+
+Using axis()
+100 XP
+
+Legends, annotations, and styles
+50 XP
+
+Using legend()
+100 XP
+
+Using annotate()
+100 XP
+
+Modifying styles
+100 XP
+Hide Details
+2
+Plotting 2D arrays
+0%
+This chapter showcases various techniques for visualizing two-dimensional arrays. This includes the use, presentation, and orientation of grids for representing two-variable functions followed by discussions of pseudocolor plots, contour plots, color maps, two-dimensional histograms, and images.
+
+
+Working with 2D arrays
+50 XP
+
+Generating meshes
+100 XP
+
+Array orientation
+50 XP
+
+Visualizing bivariate functions
+50 XP
+
+Contour & filled contour plots
+100 XP
+
+Modifying colormaps
+100 XP
+
+Visualizing bivariate distributions
+50 XP
+
+Using hist2d()
+100 XP
+
+Using hexbin()
+100 XP
+
+Working with images
+50 XP
+
+Loading, examining images
+100 XP
+
+Pseudocolor plot from image data
+100 XP
+
+Extent and aspect
+100 XP
+
+Rescaling pixel intensities
+100 XP
+Hide Details
+3
+Statistical plots with Seaborn
+0%
+This is a high-level tour of the Seaborn plotting library for producing statistical graphics in Python. The tour covers Seaborn tools for computing and visualizing linear regressions as well as tools for visualizing univariate distributions (e.g., strip, swarm, and violin plots) and multivariate distributions (e.g., joint plots, pair plots, and heatmaps). This also includes a discussion of grouping categories in plots.
+
+
+Visualizing regressions
+50 XP
+
+Simple linear regressions
+100 XP
+
+Plotting residuals of a regression
+100 XP
+
+Higher-order regressions
+100 XP
+
+Grouping linear regressions by hue
+100 XP
+
+Grouping linear regressions by row or column
+100 XP
+
+Visualizing univariate distributions
+50 XP
+
+Constructing strip plots
+100 XP
+
+Constructing swarm plots
+100 XP
+
+Constructing violin plots
+100 XP
+
+Visualizing multivariate distributions
+50 XP
+
+Plotting joint distributions (1)
+100 XP
+
+Plotting joint distributions (2)
+100 XP
+
+Plotting distributions pairwise (1)
+100 XP
+
+Plotting distributions pairwise (2)
+100 XP
+
+Visualizing correlations with a heatmap
+100 XP
+Hide Details
+4
+Analyzing time series and images
+0%
+This chapter ties together the skills gained so far through examining time series data and images. This involves customizing plots of stock data, generating histograms of image pixel intensities, and enhancing image contrast through histogram equalization.
+
+
+Visualizing time series
+50 XP
+
+Multiple time series on common axes
+100 XP
+
+Multiple time series slices (1)
+100 XP
+
+Multiple time series slices (2)
+100 XP
+
+Plotting an inset view
+100 XP
+
+Time series with moving windows
+50 XP
+
+Plotting moving averages
+100 XP
+
+Plotting moving standard deviations
+100 XP
+
+Interpreting moving statistics
+50 XP
+
+Histogram equalization in images
+50 XP
+
+Extracting a histogram from a grayscale image
+100 XP
+
+Cumulative Distribution Function from an image histogram
+100 XP
+
+Equalizing an image histogram
+100 XP
+
+Extracting histograms from a color image
+100 XP
+
+Extracting bivariate histograms from a color image
+100 XP
+
+Congratulations!!
+50 XP
