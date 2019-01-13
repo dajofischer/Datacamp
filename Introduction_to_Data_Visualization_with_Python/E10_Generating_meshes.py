@@ -18,3 +18,4 @@ plt.show()
 
 # Save the figure to 'sine_mesh.png'
 plt.savefig('sine_mesh.png')
+)
