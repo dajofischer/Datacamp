@@ -1,0 +1,210 @@
+and make visual customizations for selections and mouse hovering.
+
+
+Plotting with glyphs
+50 XP
+
+What are glyphs?
+50 XP
+
+A simple scatter plot
+100 XP
+
+A scatter plot with different shapes
+100 XP
+
+Customizing your scatter plots
+100 XP
+
+Additional glyphs
+50 XP
+
+Lines
+100 XP
+
+Lines and markers
+100 XP
+
+Patches
+100 XP
+
+Data formats
+50 XP
+
+Plotting data from NumPy arrays
+100 XP
+
+Plotting data from Pandas DataFrames
+100 XP
+
+The Bokeh ColumnDataSource
+50 XP
+
+The Bokeh ColumnDataSource (continued)
+100 XP
+
+Customizing glyphs
+50 XP
+
+Selection and non-selection glyphs
+100 XP
+
+Hover glyphs
+100 XP
+
+Colormapping
+100 XP
+Hide Details
+2
+Layouts, Interactions, and Annotations
+0%
+Learn how to combine mutiple Bokeh plots into different kinds of layouts on a page, how to easily link different plots together in various ways, and how to add annotations such as legends and hover tooltips.
+
+
+Introduction to layouts
+50 XP
+
+Creating rows of plots
+100 XP
+
+Creating columns of plots
+100 XP
+
+Nesting rows and columns of plots
+100 XP
+
+Advanced layouts
+50 XP
+
+Investigating the layout API
+50 XP
+
+Creating gridded layouts
+100 XP
+
+Starting tabbed layouts
+100 XP
+
+Displaying tabbed layouts
+100 XP
+
+Linking plots together
+50 XP
+
+Linked axes
+100 XP
+
+Linked brushing
+100 XP
+
+Annotations and guides
+50 XP
+
+How to create legends
+100 XP
+
+Positioning and styling legends
+100 XP
+
+Hover tooltips for exposing details
+50 XP
+
+Adding a hover tooltip
+100 XP
+Hide Details
+3
+Building interactive apps with Bokeh
+0%
+Bokeh server applications let you connect all of the powerful Python libraries for analytics and data science, such as NumPy and Pandas, to rich interactive Bokeh visualizations. Learn about Bokeh's built-in widgets, how to add them to Bokeh documents alongside plots, and how to connect everything to real python code using the Bokeh server.
+
+
+Introducing the Bokeh Server
+50 XP
+
+Understanding Bokeh apps
+50 XP
+
+Using the current document
+100 XP
+
+Add a single slider
+100 XP
+
+Multiple sliders in one document
+100 XP
+
+Connecting sliders to plots
+50 XP
+
+Adding callbacks to sliders
+50 XP
+
+How to combine Bokeh models into layouts
+100 XP
+
+Learn about widget callbacks
+100 XP
+
+Updating plots from dropdowns
+50 XP
+
+Updating data sources from dropdown callbacks
+100 XP
+
+Synchronize two dropdowns
+100 XP
+
+Buttons
+50 XP
+
+Button widgets
+100 XP
+
+Button styles
+100 XP
+
+Hosting applications for wider audiences
+50 XP
+Hide Details
+4
+Putting It All Together! A Case Study
+0%
+In this final chapter, you'll build a more sophisticated Bokeh data exploration application from the ground up, based on the famous Gapminder data set.
+
+
+Time to put it all together!
+50 XP
+
+Introducing the project dataset
+50 XP
+
+Some exploratory plots of the data
+100 XP
+
+Starting the app
+50 XP
+
+Beginning with just a plot
+100 XP
+
+Enhancing the plot with some shading
+100 XP
+
+Adding a slider to vary the year
+100 XP
+
+Customizing based on user input
+100 XP
+
+Adding more interactivity to the app
+50 XP
+
+Adding a hover tool
+100 XP
+
+Adding dropdowns to the app
+100 XP
+
+Congratulations!
+50 XP
+Hide Details

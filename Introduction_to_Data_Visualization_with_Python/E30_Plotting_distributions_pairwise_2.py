@@ -8,10 +8,12 @@ print(auto.columns)
 
 
 # Print the first 5 rows of the DataFrame
-print(auto.head())
+print(auto.iloc[:,5:9].head())
+
+auto=auto.iloc[:,5:9]
 
 # Plot the pairwise joint distributions grouped by 'origin' along with regression lines
-sns.pairplot(auto.iloc[:,0:5],hue='origin',kind='reg')
+sns.pairplot(auto,hue='origin',kind='reg')
 
 # Display the plot
 plt.show()

@@ -15,3 +15,5 @@ sns.pairplot(auto)
 
 # Display the plot
 plt.show()
+
+plt.legend()
