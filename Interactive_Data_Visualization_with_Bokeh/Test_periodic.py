@@ -67,6 +67,6 @@ p.axis.major_tick_line_color = None
 p.axis.major_label_standoff = 0
 p.legend.orientation = "horizontal"
 p.legend.location ="top_center"
-p.hover.renderers = [r] # only hover element boxes
+#p.hover.renderers = [r] # only hover element boxes
 
 show(p)
