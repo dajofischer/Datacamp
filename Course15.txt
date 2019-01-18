@@ -1,0 +1,203 @@
+rence techniques, you should first explore your data by plotting them and computing simple summary statistics. This process, called exploratory data analysis, is a crucial first step in statistical analysis of data. So it is a fitting subject for the first chapter of Statistical Thinking in Python.
+
+
+Introduction to exploratory data analysis
+50 XP
+
+Tukey's comments on EDA
+50 XP
+
+Advantages of graphical EDA
+50 XP
+
+Plotting a histogram
+50 XP
+
+Plotting a histogram of iris data
+100 XP
+
+Axis labels!
+100 XP
+
+Adjusting the number of bins in a histogram
+100 XP
+
+Plotting all of your data: Bee swarm plots
+50 XP
+
+Bee swarm plot
+100 XP
+
+Interpreting a bee swarm plot
+50 XP
+
+Plotting all of your data: Empirical cumulative distribution functions
+50 XP
+
+Computing the ECDF
+100 XP
+
+Plotting the ECDF
+100 XP
+
+Comparison of ECDFs
+100 XP
+
+Onward toward the whole story
+50 XP
+Hide Details
+2
+Quantitative exploratory data analysis
+0%
+In the last chapter, you learned how to graphically explore data. In this chapter, you will compute useful summary statistics, which serve to concisely describe salient features of a data set with a few numbers.
+
+
+Introduction to summary statistics: The sample mean and median
+50 XP
+
+Means and medians
+50 XP
+
+Computing means
+100 XP
+
+Percentiles, outliers, and box plots
+50 XP
+
+Computing percentiles
+100 XP
+
+Comparing percentiles to ECDF
+100 XP
+
+Box-and-whisker plot
+100 XP
+
+Variance and standard deviation
+50 XP
+
+Computing the variance
+100 XP
+
+The standard deviation and the variance
+100 XP
+
+Covariance and Pearson correlation coefficient
+50 XP
+
+Scatter plots
+100 XP
+
+Variance and covariance by looking
+50 XP
+
+Computing the covariance
+100 XP
+
+Computing the Pearson correlation coefficient
+100 XP
+Hide Details
+3
+Thinking probabilistically-- Discrete variables
+0%
+Statistical inference rests upon probability. Because we can very rarely say anything meaningful with absolute certainty from data, we use probabilistic language to make quantitative statements about data. In this chapter, you will learn how to think probabilistically about discrete quantities, those that can only take certain values, like integers. It is an important first step in building the probabilistic language necessary to think statistically.
+
+
+Probabilistic logic and statistical inference
+50 XP
+
+What is the goal of statistical inference?
+50 XP
+
+Why do we use the language of probability?
+50 XP
+
+Random number generators and hacker statistics
+50 XP
+
+Generating random numbers using the np.random module
+100 XP
+
+The np.random module and Bernoulli trials
+100 XP
+
+How many defaults might we expect?
+100 XP
+
+Will the bank fail?
+100 XP
+
+Probability distributions and stories: The Binomial distribution
+50 XP
+
+Sampling out of the Binomial distribution
+100 XP
+
+Plotting the Binomial PMF
+100 XP
+
+Poisson processes and the Poisson distribution
+50 XP
+
+Relationship between Binomial and Poisson distributions
+100 XP
+
+How many no-hitters in a season?
+50 XP
+
+Was 2015 anomalous?
+100 XP
+Hide Details
+4
+Thinking probabilistically-- Continuous variables
+0%
+In the last chapter, you learned about probability distributions of discrete variables. Now it is time to move on to continuous variables, such as those that can take on any fractional value. Many of the principles are the same, but there are some subtleties. At the end of this last chapter of the course, you will be speaking the probabilistic language you need to launch into the inference techniques covered in the sequel to this course.
+
+
+Probability density functions
+50 XP
+
+Interpreting PDFs
+50 XP
+
+Interpreting CDFs
+50 XP
+
+Introduction to the Normal distribution
+50 XP
+
+The Normal PDF
+100 XP
+
+The Normal CDF
+100 XP
+
+The Normal distribution: Properties and warnings
+50 XP
+
+Gauss and the 10 Deutschmark banknote
+50 XP
+
+Are the Belmont Stakes results Normally distributed?
+100 XP
+
+What are the chances of a horse matching or beating Secretariat's record?
+100 XP
+
+The Exponential distribution
+50 XP
+
+Matching a story and a distribution
+50 XP
+
+Waiting for the next Secretariat
+50 XP
+
+If you have a story, you can simulate it!
+100 XP
+
+Distribution of no-hitters and cycles
+100 XP
+
+Final thoughts and encouragement toward Statistical Thinking II
+50 XP
