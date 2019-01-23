@@ -1,4 +1,4 @@
-file='Course15.txt';
+file='Course16.txt';
 
 fid=fopen(file,'r');
 TEXT=fscanf(fid,'%c');
@@ -41,6 +41,6 @@ end
 p='/Volumes/Data/Dropbox/Python3/git/Datacamp/';
 %%
 for i=1:size(c,1)
-    fid=fopen([p,'Statistical_Thinking_in_Python_Part_1/',c{i,2}],'w+');
+    fid=fopen([p,'Statistical_Thinking_in_Python_Part_2/',c{i,2}],'w+');
     fclose(fid);
 end

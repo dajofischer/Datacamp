@@ -1,0 +1,224 @@
+to find the optimal parameters, those that best describe your data.
+
+
+Optimal parameters
+50 XP
+
+How often do we get no-hitters?
+100 XP
+
+Do the data follow our story?
+100 XP
+
+How is this parameter optimal?
+100 XP
+
+Linear regression by least squares
+50 XP
+
+EDA of literacy/fertility data
+100 XP
+
+Linear regression
+100 XP
+
+How is it optimal?
+100 XP
+
+The importance of EDA: Anscombe's quartet
+50 XP
+
+The importance of EDA
+50 XP
+
+Linear regression on appropriate Anscombe data
+100 XP
+
+Linear regression on all Anscombe data
+100 XP
+Hide Details
+2
+Bootstrap confidence intervals
+0%
+To "pull yourself up by your bootstraps" is a classic idiom meaning that you achieve a difficult task by yourself with no help at all. In statistical inference, you want to know what would happen if you could repeat your data acquisition an infinite number of times. This task is impossible, but can we use only the data we actually have to get close to the same result as an infinitude of experiments? The answer is yes! The technique to do it is aptly called bootstrapping. This chapter will introduce you to this extraordinarily powerful tool.
+
+
+Generating bootstrap replicates
+50 XP
+
+Getting the terminology down
+50 XP
+
+Bootstrapping by hand
+50 XP
+
+Visualizing bootstrap samples
+100 XP
+
+Bootstrap confidence intervals
+50 XP
+
+Generating many bootstrap replicates
+100 XP
+
+Bootstrap replicates of the mean and the SEM
+100 XP
+
+Confidence intervals of rainfall data
+50 XP
+
+Bootstrap replicates of other statistics
+100 XP
+
+Confidence interval on the rate of no-hitters
+100 XP
+
+Pairs bootstrap
+50 XP
+
+A function to do pairs bootstrap
+100 XP
+
+Pairs bootstrap of literacy/fertility data
+100 XP
+
+Plotting bootstrap regressions
+100 XP
+Hide Details
+3
+Introduction to hypothesis testing
+0%
+You now know how to define and estimate parameters given a model. But the question remains: how reasonable is it to observe your data if a model is true? This question is addressed by hypothesis tests. They are the icing on the inference cake. After completing this chapter, you will be able to carefully construct and test hypotheses using hacker statistics.
+
+
+Formulating and simulating a hypothesis
+50 XP
+
+Generating a permutation sample
+100 XP
+
+Visualizing permutation sampling
+100 XP
+
+Test statistics and p-values
+50 XP
+
+Test statistics
+50 XP
+
+What is a p-value?
+50 XP
+
+Generating permutation replicates
+100 XP
+
+Look before you leap: EDA before hypothesis testing
+100 XP
+
+Permutation test on frog data
+100 XP
+
+Bootstrap hypothesis tests
+50 XP
+
+A one-sample bootstrap hypothesis test
+100 XP
+
+A two-sample bootstrap hypothesis test for difference of means
+100 XP
+Hide Details
+4
+Hypothesis test examples
+0%
+As you saw from the last chapter, hypothesis testing can be a bit tricky. You need to define the null hypothesis, figure out how to simulate it, and define clearly what it means to be "more extreme" in order to compute the p-value. Like any skill, practice makes perfect, and this chapter gives you some good practice with hypothesis tests.
+
+
+A/B testing
+50 XP
+
+The vote for the Civil Rights Act in 1964
+100 XP
+
+What is equivalent?
+50 XP
+
+A time-on-website analog
+100 XP
+
+What should you have done first?
+50 XP
+
+Test of correlation
+50 XP
+
+Simulating a null hypothesis concerning correlation
+50 XP
+
+Hypothesis test on Pearson correlation
+100 XP
+
+Do neonicotinoid insecticides have unintended consequences?
+100 XP
+
+Bootstrap hypothesis test on bee sperm counts
+100 XP
+Hide Details
+5
+Putting it all together: a case study
+0%
+Every year for the past 40-plus years, Peter and Rosemary Grant have gone to the Galápagos island of Daphne Major and collected data on Darwin's finches. Using your skills in statistical inference, you will spend this chapter with their data, and witness first hand, through data, evolution in action. It's an exhilarating way to end the course!
+
+
+Finch beaks and the need for statistics
+50 XP
+
+EDA of beak depths of Darwin's finches
+100 XP
+
+ECDFs of beak depths
+100 XP
+
+Parameter estimates of beak depths
+100 XP
+
+Hypothesis test: Are beaks deeper in 2012?
+100 XP
+
+Variation of beak shapes
+50 XP
+
+EDA of beak length and depth
+100 XP
+
+Linear regressions
+100 XP
+
+Displaying the linear regression results
+100 XP
+
+Beak length to depth ratio
+100 XP
+
+How different is the ratio?
+50 XP
+
+Calculation of heritability
+50 XP
+
+EDA of heritability
+100 XP
+
+Correlation of offspring and parental data
+100 XP
+
+Pearson correlation of offspring and parental data
+100 XP
+
+Measuring heritability
+100 XP
+
+Is beak depth heritable at all in G. scandens?
+100 XP
+
+Final thoughts
+50 XP
