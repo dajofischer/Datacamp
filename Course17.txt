@@ -1,0 +1,180 @@
+ur queries using inner joins and self-joins. You'll also see how to use the case statement to split up a field into different categories.
+
+
+Introduction to INNER JOIN
+50 XP
+
+Inner join
+100 XP
+
+Inner join (2)
+100 XP
+
+Inner join (3)
+100 XP
+
+INNER JOIN via USING
+50 XP
+
+Review inner join using on
+50 XP
+
+Inner join with using
+100 XP
+
+Self-ish joins, just in CASE
+50 XP
+
+Self-join
+100 XP
+
+Case when and then
+100 XP
+
+Inner challenge
+100 XP
+Hide Details
+2
+Outer joins and cross joins
+0%
+In this chapter, you'll come to grips with different kinds of outer joins. You'll learn how to gain further insights into your data through left joins, right joins, and full joins. In addition to outer joins, you'll also work with cross joins.
+
+
+LEFT and RIGHT JOINs
+50 XP
+
+Left Join
+100 XP
+
+Left join (2)
+100 XP
+
+Left join (3)
+100 XP
+
+Right join
+100 XP
+
+FULL JOINs
+50 XP
+
+Full join
+100 XP
+
+Full join (2)
+100 XP
+
+Full join (3)
+100 XP
+
+Review outer joins
+50 XP
+
+CROSSing the rubicon
+50 XP
+
+A table of two cities
+100 XP
+
+Outer challenge
+100 XP
+Hide Details
+3
+Set theory clauses
+0%
+In this chapter, you'll learn more about set theory using Venn diagrams and you will be introduced to union, union all, intersect, and except clauses. You'll finish by investigating semi-joins and anti-joins, which provide a nice introduction to subqueries.
+
+
+State of the UNION
+50 XP
+
+Union
+100 XP
+
+Union (2)
+100 XP
+
+Union all
+100 XP
+
+INTERSECTional data science
+50 XP
+
+Intersect
+100 XP
+
+Intersect (2)
+100 XP
+
+Review union and intersect
+50 XP
+
+EXCEPTional
+50 XP
+
+Except
+100 XP
+
+Except (2)
+100 XP
+
+Semi-joins and Anti-joins
+50 XP
+
+Semi-join
+100 XP
+
+Relating semi-join to a tweaked inner join
+50 XP
+
+Diagnosing problems using anti-join
+100 XP
+
+Set theory challenge
+100 XP
+Hide Details
+4
+Subqueries
+0%
+In this closing chapter, you'll learn how to use nested queries to add some finesse to your data insights. You'll also wrap all of the content covered throughout this course into solving three challenge problems.
+
+
+Subqueries inside WHERE and SELECT clauses
+50 XP
+
+Subquery inside where
+100 XP
+
+Subquery inside where (2)
+100 XP
+
+Subquery inside select
+100 XP
+
+Subquery inside FROM clause
+50 XP
+
+Subquery inside from
+100 XP
+
+Advanced subquery
+100 XP
+
+Subquery challenge
+100 XP
+
+Subquery review
+50 XP
+
+Course review
+50 XP
+
+Final challenge
+100 XP
+
+Final challenge (2)
+100 XP
+
+Final challenge (3)
+100 XP
+Hide Details
