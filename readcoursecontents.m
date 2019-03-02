@@ -1,4 +1,4 @@
-file='Course17.txt';
+file='Course18.txt';
 
 fid=fopen(file,'r');
 TEXT=fscanf(fid,'%c');
@@ -41,6 +41,6 @@ end
 p='/Volumes/Data/Dropbox/Python3/git/Datacamp/';
 %%
 for i=1:size(c,1)
-    fid=fopen([p,'Joining_Data_in_SQL/',c{i,2}],'w+');
+    fid=fopen([p,'Supervised_Learning_with_scikit_learn/',c{i,2}],'w+');
     fclose(fid);
 end
