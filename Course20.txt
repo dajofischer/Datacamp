@@ -1,0 +1,180 @@
+1
+Clustering for dataset exploration
+FREE
+25%
+Learn how to discover the underlying groups (or "clusters") in a dataset. By the end of this chapter, you'll be clustering companies using their stock market prices, and distinguishing different species by clustering their measurements.
+
+
+Unsupervised learning
+50 XP
+
+How many clusters?
+50 XP
+
+Clustering 2D points
+100 XP
+
+Inspect your clustering
+100 XP
+
+Evaluating a clustering
+50 XP
+
+How many clusters of grain?
+100 XP
+
+Evaluating the grain clustering
+100 XP
+
+Transforming features for better clusterings
+50 XP
+
+Scaling fish data for clustering
+100 XP
+
+Clustering the fish data
+100 XP
+
+Clustering stocks using KMeans
+100 XP
+
+Which stocks move together?
+100 XP
+Hide Details
+2
+Visualization with hierarchical clustering and t-SNE
+0%
+In this chapter, you'll learn about two unsupervised learning techniques for data visualization, hierarchical clustering and t-SNE. Hierarchical clustering merges the data samples into ever-coarser clusters, yielding a tree visualization of the resulting cluster hierarchy. t-SNE maps the data samples into 2d space so that the proximity of the samples to one another can be visualized.
+
+
+Visualizing hierarchies
+50 XP
+
+How many merges?
+50 XP
+
+Hierarchical clustering of the grain data
+100 XP
+
+Hierarchies of stocks
+100 XP
+
+Cluster labels in hierarchical clustering
+50 XP
+
+Which clusters are closest?
+50 XP
+
+Different linkage, different hierarchical clustering!
+100 XP
+
+Intermediate clusterings
+50 XP
+
+Extracting the cluster labels
+100 XP
+
+t-SNE for 2-dimensional maps
+50 XP
+
+t-SNE visualization of grain dataset
+100 XP
+
+A t-SNE map of the stock market
+100 XP
+Hide Details
+3
+Decorrelating your data and dimension reduction
+0%
+Dimension reduction summarizes a dataset using its common occuring patterns. In this chapter, you'll learn about the most fundamental of dimension reduction techniques, "Principal Component Analysis" ("PCA"). PCA is often used before supervised learning to improve model performance and generalization. It can also be useful for unsupervised learning. For example, you'll employ a variant of PCA will allow you to cluster Wikipedia articles by their content!
+
+
+Visualizing the PCA transformation
+50 XP
+
+Correlated data in nature
+100 XP
+
+Decorrelating the grain measurements with PCA
+100 XP
+
+Principal components
+50 XP
+
+Intrinsic dimension
+50 XP
+
+The first principal component
+100 XP
+
+Variance of the PCA features
+100 XP
+
+Intrinsic dimension of the fish data
+50 XP
+
+Dimension reduction with PCA
+50 XP
+
+Dimension reduction of the fish measurements
+100 XP
+
+A tf-idf word-frequency array
+100 XP
+
+Clustering Wikipedia part I
+100 XP
+
+Clustering Wikipedia part II
+100 XP
+Hide Details
+4
+Discovering interpretable features
+0%
+In this chapter, you'll learn about a dimension reduction technique called "Non-negative matrix factorization" ("NMF") that expresses samples as combinations of interpretable parts. For example, it expresses documents as combinations of topics, and images in terms of commonly occurring visual patterns. You'll also learn to use NMF to build recommender systems that can find you similar articles to read, or musical artists that match your listening history!
+
+
+Non-negative matrix factorization (NMF)
+50 XP
+
+Non-negative data
+50 XP
+
+NMF applied to Wikipedia articles
+100 XP
+
+NMF features of the Wikipedia articles
+100 XP
+
+NMF reconstructs samples
+50 XP
+
+NMF learns interpretable parts
+50 XP
+
+NMF learns topics of documents
+100 XP
+
+Explore the LED digits dataset
+100 XP
+
+NMF learns the parts of images
+100 XP
+
+PCA doesn't learn parts
+100 XP
+
+Building recommender systems using NMF
+50 XP
+
+Which articles are similar to 'Cristiano Ronaldo'?
+100 XP
+
+Recommend musical artists part I
+100 XP
+
+Recommend musical artists part II
+100 XP
+
+Final thoughts
+50 XP
