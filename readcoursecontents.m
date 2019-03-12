@@ -1,4 +1,4 @@
-file='Course20.txt';
+file='Course21.txt';
 
 fid=fopen(file,'r');
 TEXT=fscanf(fid,'%c');
@@ -41,6 +41,6 @@ end
 p='/Volumes/Data/Dropbox/Python3/git/Datacamp/';
 %%
 for i=1:size(c,1)
-    fid=fopen([p,'Unsupervised_Learning_in_Python/',c{i,2}],'w+');
+    fid=fopen([p,'Deep_Learning_in_Python/',c{i,2}],'w+');
     fclose(fid);
 end
