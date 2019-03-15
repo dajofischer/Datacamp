@@ -1,0 +1,170 @@
+y visualize them.
+
+
+Introduction to networks
+50 XP
+
+What is a network?
+50 XP
+
+Basics of NetworkX API, using Twitter network
+50 XP
+
+Basic drawing of a network using NetworkX
+100 XP
+
+Queries on a graph
+100 XP
+
+Types of graphs
+50 XP
+
+Checking the un/directed status of a graph
+50 XP
+
+Specifying a weight on edges
+100 XP
+
+Checking whether there are self-loops in the graph
+100 XP
+
+Network visualization
+50 XP
+
+Visualizing using Matrix plots
+100 XP
+
+Visualizing using Circos plots
+100 XP
+
+Visualizing using Arc plots
+100 XP
+Hide Details
+2
+Important nodes
+0%
+Here, you'll learn about ways of identifying nodes that are important in a network. In doing so, you'll be introduced to more advanced concepts in network analysis as well as learn the basics of path-finding algorithms. The chapter concludes with a deep dive into the Twitter network dataset which will reinforce the concepts you've learned, such as degree centrality and betweenness centrality.
+
+
+Degree centrality
+50 XP
+
+Compute number of neighbors for each node
+100 XP
+
+Compute degree distribution
+100 XP
+
+Degree centrality distribution
+100 XP
+
+Graph algorithms
+50 XP
+
+Shortest Path I
+100 XP
+
+Shortest Path II
+100 XP
+
+Shortest Path III
+100 XP
+
+Betweenness centrality
+50 XP
+
+NetworkX betweenness centrality on a social network
+100 XP
+
+Deep dive - Twitter network
+100 XP
+
+Deep dive - Twitter network part II
+100 XP
+Hide Details
+3
+Structures
+0%
+This chapter is all about finding interesting structures within network data. You'll learn about essential concepts such as cliques, communities, and subgraphs, which will leverage all of the skills you acquired in Chapter 2. By the end of this chapter, you'll be ready to apply the concepts you've learned to a real-world case study.
+
+
+Cliques & communities
+50 XP
+
+Identifying triangle relationships
+100 XP
+
+Finding nodes involved in triangles
+100 XP
+
+Finding open triangles
+100 XP
+
+Maximal cliques
+50 XP
+
+Finding all maximal cliques of size "n"
+100 XP
+
+Subgraphs
+50 XP
+
+Subgraphs I
+100 XP
+
+Subgraphs II
+100 XP
+Hide Details
+4
+Bringing it all together
+0%
+In this final chapter of the course, you'll consolidate everything you've learned by diving into an in-depth case study of GitHub collaborator network data. This is a great example of real-world social network data, and your newly acquired skills will be fully tested. By the end of this chapter, you'll have developed your very own recommendation system which suggests GitHub users who should collaborate together. Enjoy!
+
+
+Case study!
+50 XP
+
+Characterizing the network (I)
+50 XP
+
+Characterizing the network (II)
+100 XP
+
+Characterizing the network (III)
+100 XP
+
+Case study part II: Visualization
+50 XP
+
+MatrixPlot
+100 XP
+
+ArcPlot
+100 XP
+
+CircosPlot
+100 XP
+
+Case study part III: Cliques
+50 XP
+
+Finding cliques (I)
+100 XP
+
+Finding cliques (II)
+100 XP
+
+Case study part IV: Final tasks
+50 XP
+
+Finding important collaborators
+100 XP
+
+Characterizing editing communities
+100 XP
+
+Recommending co-editors who have yet to edit together
+100 XP
+
+Final thoughts
+50 XP
