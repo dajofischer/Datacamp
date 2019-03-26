@@ -14,7 +14,7 @@ delimiter=',',infer_datetime_format=True,index_col='Year')
 
 print(min(df.index))
 
-source = ColumnDataSource(df.loc[1980])
+source = ColumnDataSource(df.loc[2000])
 
 print(df.loc[1980,'life'].values/10)
 print(df.loc[1980,'region'].unique())
